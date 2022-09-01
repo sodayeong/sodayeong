@@ -1,5 +1,5 @@
 
-## Thesis
+## Paper
 - - -
 [KCC2022] DTG 교통 빅데이터를 이용한 교통흐름 시각적 분석 <소다영, 피민규, 정문영, 송혜원> [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11119162)
 
