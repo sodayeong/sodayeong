@@ -23,6 +23,6 @@
 
 ## site and contact
 - - -
-[site] https://sodayeong.tistory.com
+###[site] https://sodayeong.tistory.com
 
-[contact] dayoung102@naver.com
+### [contact] dayoung102@naver.com
