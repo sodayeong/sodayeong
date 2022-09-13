@@ -4,7 +4,7 @@
 [KCC2022] DTG 교통 빅데이터를 이용한 교통흐름 시각적 분석 <소다영, 피민규, 정문영, 송혜원> [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11119162)
 
 ## achivement
-- - -
+- - -  
 2022.07~ KT AIVLE School DX 과정 수료 진행중
 
 2022 한국컴퓨터종합학술대회 학부생부문 장려상 수상
