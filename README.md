@@ -3,8 +3,12 @@
 - - -
 [KCC2022] DTG 교통 빅데이터를 이용한 교통흐름 시각적 분석 <소다영, 피민규, 정문영, 송혜원> [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11119162)
 
+[KICS2022] 전이학습 기반의 랜덤 포레스트를 이용한 일사량 예측 기법 <소다영, 김의년, 한태규, 하휘명, 문지훈>
+
 ## achivement
 - - -  
+2022 SCH AI·SW Festival 우수상 수상
+
 2022.07~ KT AIVLE School DX 과정 수료 진행중
 
 2022 한국컴퓨터종합학술대회 학부생부문 장려상 수상
