@@ -42,4 +42,4 @@
 - - -
 #### [site] https://sodayeong.tistory.com
 
-#### [contact] dayoung102@naver.com
+#### [contact] sodayeong@sch.ac.kr
