@@ -3,13 +3,11 @@
 - - -
 [Scholar] [Link](https://scholar.google.co.kr/citations?user=NbNH3eQAAAAJ&hl=ko)
 
-[KCC2022] DTG 교통 빅데이터를 이용한 교통흐름 시각적 분석 <소다영, 피민규, 정문영, 송혜원> [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11119162)
-
-[KICS2022] 전이학습 기반의 랜덤 포레스트를 이용한 일사량 예측 기법 <소다영, 김의년, 한태규, 하휘명, 문지훈> [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11197176)
-
 ## achivement
 - - -  
 🏆 **수상 이력**
+
+2023 한국정보과학회 데이터베이스소사이어티 우수논문상 동상 (KDBC 2023)
 
 2023 한국정보처리학회 산학협동우수상 (ASK 2023)
 
